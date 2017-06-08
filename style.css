@@ -2,10 +2,6 @@ body {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
 
-p {
-    margin: 10px;
-}
-
 a:link, a:visited{
     color: black;
     text-decoration: none;
@@ -17,30 +13,56 @@ a:link, a:visited{
 	line-height: 26.4px;
 }
 
-.info {
-    margin-top: 2vh;
+.info > p {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 
-p.info {
-    padding: 0px;
-    margin: 0px;
-    border: 0px;
+.headinfo div {
+    display: inline-block;
+}
+
+.info {
+    vertical-align: top;
+    margin-left: 50px;
+    margin-right: 5px;
+    width: 25vw;
+}
+
+.galery {
+    vertical-align: top;
+    text-align: right;
+    align-items: bottom;
+    margin-left: 50px;
+    margin-right: 5px;
+    width: 60vw;
+    height: auto;
+}
+
+.icons {
+    padding-top: 50px;
+    min-width: 200px;
+}
+
+.item {
+    max-width: 300px;
+    min-width: 300px;
 }
 
 .header {
     border-bottom-color: black;
     border-bottom-style: solid;
-    border-bottom-width: 0.1px;
-    padding-bottom: 3vh;
-    padding-top: 2vh;
+    border-bottom-width: 0.05px;
 }
 
 #name {
 	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-	font-size: 4em;
+	font-size: 2em;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 26.4px;
-    padding-bottom: 2vh;
+    padding-left: 1vw;
+    margin-bottom: 1vh;
+    margin-top: 3vh;
 }
