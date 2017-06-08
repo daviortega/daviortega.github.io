@@ -1,3 +1,46 @@
 body {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }
+
+p {
+    margin: 10px;
+}
+
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 1em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.info {
+    margin-top: 2vh;
+}
+
+p.info {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.header {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 0.1px;
+    padding-bottom: 3vh;
+    padding-top: 2vh;
+}
+
+#name {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 4em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+    padding-bottom: 2vh;
+}
