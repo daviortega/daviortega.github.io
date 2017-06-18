@@ -20,30 +20,25 @@ a:link, a:visited{
     border: 0px;
 }
 
-.headinfo div {
-    display: inline-block;
+.headinfo {
+    height: 105px;
 }
 
 .info {
-    vertical-align: top;
-    margin-left: 50px;
-    margin-right: 5px;
-    width: 25vw;
+    width: 30em;
+    position: absolute;
+    left: 30px;
 }
 
 .galery {
-    vertical-align: top;
-    text-align: right;
-    align-items: bottom;
-    margin-left: 50px;
-    margin-right: 5px;
-    width: 60vw;
-    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 43px;
 }
 
 .icons {
-    padding-top: 80px;
-    min-width: 300px;
+    position: relative;
+    bottom: 0px;
 }
 
 .item {
@@ -56,13 +51,13 @@ a:link, a:visited{
     border-bottom-width: 0.05px;
 }
 
-#name {
+.p-name {
 	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 	font-size: 2em;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-    padding-left: 1vw;
+    padding-left: 5px;
     margin-bottom: 1vh;
     margin-top: 3vh;
 }
