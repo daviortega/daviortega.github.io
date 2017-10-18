@@ -56,14 +56,14 @@ a:link, a:visited{
 .header {
     border-bottom-color: black;
     border-bottom-style: solid;
-    border-bottom-width: 0.05px;
+    border-bottom-width: 0.5px;
 }
 
 
 #whoami {
     display: none;
     margin: auto;
-    max-width: 500px;
+    max-width: 600px;
 }
 
 #whoami a:link, a:visited {
