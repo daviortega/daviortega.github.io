@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/daviortega
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://daviortega.com
+  * I am daviortega (https://keybase.io/daviortega) on keybase.
+  * I have a public key ASATRU6qbzkA83w8wtfXQjX1iAHNge5SMr3DZhq-9Eqe_Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013454eaa6f3900f37c3cc2d7d74235f58801cd81ee5232bdc3661abef44a9efc0a",
+      "host": "keybase.io",
+      "kid": "012013454eaa6f3900f37c3cc2d7d74235f58801cd81ee5232bdc3661abef44a9efc0a",
+      "uid": "958bdb3f6f4fc2f9a501093865c97919",
+      "username": "daviortega"
+    },
+    "merkle_root": {
+      "ctime": 1512899092,
+      "hash": "5fb5d792cc5b557194f76c1921c98d94aa1d3ab9fe6c5d62de81333e51bab7198fa0bd028e4b673be441f59c04f6a95f1dd09f4aa98ca33aea30c7ef2c7831f0",
+      "hash_meta": "3271c7cd3945299c393dd07facfd26af26f37eab5926aa309319c63ab53ae607",
+      "seqno": 1797795
+    },
+    "service": {
+      "hostname": "daviortega.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1512899154,
+  "expire_in": 504576000,
+  "prev": "445d97dcc95c5aa41ec5ee49e0dc0abf68c7a6c8b6532dbd0faf4fce2433b41e",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE0VOqm85APN8PMLX10I19YgBzYHuUjK9w2YavvRKnvwKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTM0NTRlYWE2ZjM5MDBmMzdjM2NjMmQ3ZDc0MjM1ZjU4ODAxY2Q4MWVlNTIzMmJkYzM2NjFhYmVmNDRhOWVmYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTM0NTRlYWE2ZjM5MDBmMzdjM2NjMmQ3ZDc0MjM1ZjU4ODAxY2Q4MWVlNTIzMmJkYzM2NjFhYmVmNDRhOWVmYzBhIiwidWlkIjoiOTU4YmRiM2Y2ZjRmYzJmOWE1MDEwOTM4NjVjOTc5MTkiLCJ1c2VybmFtZSI6ImRhdmlvcnRlZ2EifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTI4OTkwOTIsImhhc2giOiI1ZmI1ZDc5MmNjNWI1NTcxOTRmNzZjMTkyMWM5OGQ5NGFhMWQzYWI5ZmU2YzVkNjJkZTgxMzMzZTUxYmFiNzE5OGZhMGJkMDI4ZTRiNjczYmU0NDFmNTljMDRmNmE5NWYxZGQwOWY0YWE5OGNhMzNhZWEzMGM3ZWYyYzc4MzFmMCIsImhhc2hfbWV0YSI6IjMyNzFjN2NkMzk0NTI5OWMzOTNkZDA3ZmFjZmQyNmFmMjZmMzdlYWI1OTI2YWEzMDkzMTljNjNhYjUzYWU2MDciLCJzZXFubyI6MTc5Nzc5NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYXZpb3J0ZWdhLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTI4OTkxNTQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNDQ1ZDk3ZGNjOTVjNWFhNDFlYzVlZTQ5ZTBkYzBhYmY2OGM3YTZjOGI2NTMyZGJkMGZhZjRmY2UyNDMzYjQxZSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBc/9mt6jZI7GveztNuM6cF5IMJ+d8baGQzvqAyGpe9XKHurJjkWkEyiuroBVt7xetF/9gp9VTsrZeWoZ+8xhIGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgxOETnrbsCliu8IVozAVF/WiYrUl2Oc/DBDPYUubk/5ajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daviortega
+
+==================================================================
