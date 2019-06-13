@@ -57,8 +57,17 @@ a:link, a:visited{
     border-bottom-color: black;
     border-bottom-style: solid;
     border-bottom-width: 0.5px;
+    padding: 20px
 }
 
+.container {
+    padding: 20px;
+    align-content: center;
+}
+
+.image {
+    padding: 10px;
+}
 
 #whoami {
     display: none;
