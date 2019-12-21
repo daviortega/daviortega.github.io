@@ -63,7 +63,7 @@ a:link, a:visited{
 #whoami {
     display: none;
     margin: auto;
-    max-width: 600px;
+    max-width: 650px;
 }
 
 #whoami a:link, a:visited {
@@ -73,7 +73,7 @@ a:link, a:visited{
 #projects {
     display: none;
     margin: auto;
-    max-width: 600px;
+    max-width: 650px;
 }
 
 #projects a:link, a:visited {
